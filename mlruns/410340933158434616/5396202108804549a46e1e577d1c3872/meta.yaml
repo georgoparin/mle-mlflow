@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/410340933158434616/5396202108804549a46e1e577d1c3872/artifacts
+end_time: 1781803023325
+entry_point_name: ''
+experiment_id: '410340933158434616'
+lifecycle_stage: active
+run_id: 5396202108804549a46e1e577d1c3872
+run_name: choose_fitch_V3_intersection_and_union
+run_uuid: 5396202108804549a46e1e577d1c3872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781803023272
+status: 4
+tags: []
+user_id: mle-user

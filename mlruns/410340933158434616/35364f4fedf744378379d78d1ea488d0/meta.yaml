@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/410340933158434616/35364f4fedf744378379d78d1ea488d0/artifacts
+end_time: 1781802980181
+entry_point_name: ''
+experiment_id: '410340933158434616'
+lifecycle_stage: active
+run_id: 35364f4fedf744378379d78d1ea488d0
+run_name: abundant-robin-644
+run_uuid: 35364f4fedf744378379d78d1ea488d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781802980167
+status: 3
+tags: []
+user_id: mle-user

@@ -1,0 +1,6 @@
+artifact_location: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/410340933158434616
+creation_time: 1781802933427
+experiment_id: '410340933158434616'
+last_update_time: 1781802933427
+lifecycle_stage: active
+name: churn_prediction

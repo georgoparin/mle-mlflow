@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/410340933158434616/03c1363389924441ba2010dc9bf078fb/artifacts
+end_time: 1781803029179
+entry_point_name: ''
+experiment_id: '410340933158434616'
+lifecycle_stage: active
+run_id: 03c1363389924441ba2010dc9bf078fb
+run_name: inquisitive-goat-595
+run_uuid: 03c1363389924441ba2010dc9bf078fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781803029164
+status: 3
+tags: []
+user_id: mle-user
